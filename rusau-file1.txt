@@ -1,7 +1,7 @@
 lyublyu testit'
 novaia stroka 
 lish' by vzyali rabotat'
-dobavlyaem strochku.
+dobavlyaem strochku
 menyaiu nazvanie stroki
 menyaiu nazvanie stroki uje zdes' (na github)
 esho stroka
