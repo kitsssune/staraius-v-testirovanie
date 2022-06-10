@@ -5,3 +5,4 @@ dobavlyaem strochku
 menyaiu nazvanie stroki
 menyaiu nazvanie stroki uje zdes' (na github)
 esho stroka
+new branch line
