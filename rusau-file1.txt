@@ -1,5 +1,5 @@
 lyublyu testit'
-novaia stroka 
+novaia stroka (update)
 lish' by vzyali rabotat'
 dobavlyaem strochku
 menyaiu nazvanie stroki
